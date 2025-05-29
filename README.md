@@ -42,3 +42,10 @@ This project is a **Machine Learning-based web application** that predicts wheth
   Contains features such as Glucose, Blood Pressure, BMI, Age, Insulin, and more for diabetes prediction.
 
 ---
+
+## Screenshot of the streamlit interface
+
+<img width="1440" alt="Screenshot 2025-05-29 at 6 41 23 PM" src="https://github.com/user-attachments/assets/267d6f3e-a10f-4d33-ada0-5a0164b1dde0" />
+
+---
+
