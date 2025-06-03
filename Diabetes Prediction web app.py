@@ -4,8 +4,8 @@ import streamlit as st
 
 
 # Loading the saved model
-loaded_model = pickle.load(open('/Users/itsnaveenkroy/Documents/Codes/Diabetes Model/SVM_trained_model.sav', 'rb'))
-STD_trained_model_data = pickle.load(open('/Users/itsnaveenkroy/Documents/Codes/Diabetes Model/STD_trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('SVM_trained_model.sav', 'rb'))
+STD_trained_model_data = pickle.load(open('STD_trained_model.sav', 'rb'))
 
 # Creating a function for prediction
 def diabetes_prediction(input_data):
